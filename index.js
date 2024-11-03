@@ -25,7 +25,7 @@ app.use(express.static("uploads")); // Serve uploaded files
 
 // Serve the HTML file for the upload form
 app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, "../public/index.html"));
+  res.sendFile(path.join(__dirname, "index.html"));
 });
 
 // Load competitors data from CSV file
