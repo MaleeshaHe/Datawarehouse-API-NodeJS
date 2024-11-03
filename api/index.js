@@ -3,9 +3,18 @@ const fs = require("fs");
 const path = require("path");
 const multer = require("multer");
 const csv = require("csv-parser");
+const cors = require("cors");
 
 const app = express();
 const PORT = 3000;
+
+app.use(
+  cors({
+    origin: "https://competitor-api.vercel.app/", // Allow your frontend origin
+    methods: ["GET", "POST"], // Allowed methods
+    credentials: true, // Allow credentials if needed
+  })
+);
 
 // Set up multer for file uploads
 const upload = multer({ dest: "uploads/" }); // Files will be stored in the 'uploads' directory
@@ -16,7 +25,7 @@ app.use(express.static("uploads")); // Serve uploaded files
 
 // Serve the HTML file for the upload form
 app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, "index.html"));
+  res.sendFile(path.join(__dirname, "../public/index.html"));
 });
 
 // Load competitors data from CSV file

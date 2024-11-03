@@ -140,7 +140,9 @@
         const response = await fetch('/api/upload-csv', {
           method: 'POST',
           body: formData,
+          mode: 'cors',
         });
+
 
         if (!response.ok) {
           throw new Error('Upload failed'); // Throw error for non-2xx responses
