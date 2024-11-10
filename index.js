@@ -48,7 +48,7 @@ app.post("/api/upload-csv", upload.single("file"), (req, res) => {
     });
 });
 // Endpoint to get all competitors
-app.get("/api/competitors", async (req, res) => {
+app.get("/api/item-unit-price", async (req, res) => {
   try {
     const competitorsData = await new Promise((resolve, reject) => {
       fs.readFile(

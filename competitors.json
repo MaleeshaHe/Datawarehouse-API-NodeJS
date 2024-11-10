@@ -1,702 +1,202 @@
 [
   {
-    "Competitor": "Competitor_5",
-    "ItemID": "8",
-    "DateID": "68",
-    "CompetitorPrice": "84.28",
-    "SupplierCostHistory": "32.47"
+    "﻿Item_ID": "3001",
+    "Unit_Price (LKR)": "200"
   },
   {
-    "Competitor": "Competitor_1",
-    "ItemID": "16",
-    "DateID": "74",
-    "CompetitorPrice": "65.23",
-    "SupplierCostHistory": "38.88"
+    "﻿Item_ID": "3002",
+    "Unit_Price (LKR)": "150"
   },
   {
-    "Competitor": "Competitor_3",
-    "ItemID": "1",
-    "DateID": "2",
-    "CompetitorPrice": "43.85",
-    "SupplierCostHistory": "0.79"
+    "﻿Item_ID": "3003",
+    "Unit_Price (LKR)": "180"
   },
   {
-    "Competitor": "Competitor_5",
-    "ItemID": "5",
-    "DateID": "50",
-    "CompetitorPrice": "62.31",
-    "SupplierCostHistory": "22.08"
+    "﻿Item_ID": "3004",
+    "Unit_Price (LKR)": "120"
   },
   {
-    "Competitor": "Competitor_1",
-    "ItemID": "2",
-    "DateID": "3",
-    "CompetitorPrice": "63.45",
-    "SupplierCostHistory": "21.19"
+    "﻿Item_ID": "3005",
+    "Unit_Price (LKR)": "100"
   },
   {
-    "Competitor": "Competitor_1",
-    "ItemID": "16",
-    "DateID": "38",
-    "CompetitorPrice": "62.22",
-    "SupplierCostHistory": "17.5"
+    "﻿Item_ID": "3006",
+    "Unit_Price (LKR)": "250"
   },
   {
-    "Competitor": "Competitor_2",
-    "ItemID": "15",
-    "DateID": "48",
-    "CompetitorPrice": "36.64",
-    "SupplierCostHistory": "30"
+    "﻿Item_ID": "3007",
+    "Unit_Price (LKR)": "50"
   },
   {
-    "Competitor": "Competitor_5",
-    "ItemID": "17",
-    "DateID": "43",
-    "CompetitorPrice": "23.42",
-    "SupplierCostHistory": "22.05"
+    "﻿Item_ID": "3008",
+    "Unit_Price (LKR)": "500"
   },
   {
-    "Competitor": "Competitor_5",
-    "ItemID": "1",
-    "DateID": "16",
-    "CompetitorPrice": "54.74",
-    "SupplierCostHistory": "38.09"
+    "﻿Item_ID": "3009",
+    "Unit_Price (LKR)": "150"
   },
   {
-    "Competitor": "Competitor_5",
-    "ItemID": "1",
-    "DateID": "66",
-    "CompetitorPrice": "7.58",
-    "SupplierCostHistory": "6.97"
+    "﻿Item_ID": "3010",
+    "Unit_Price (LKR)": "60"
   },
   {
-    "Competitor": "Competitor_5",
-    "ItemID": "19",
-    "DateID": "8",
-    "CompetitorPrice": "6.8",
-    "SupplierCostHistory": "5.94"
+    "﻿Item_ID": "3011",
+    "Unit_Price (LKR)": "1200"
   },
   {
-    "Competitor": "Competitor_2",
-    "ItemID": "9",
-    "DateID": "49",
-    "CompetitorPrice": "97.57",
-    "SupplierCostHistory": "71.18"
+    "﻿Item_ID": "3012",
+    "Unit_Price (LKR)": "1300"
   },
   {
-    "Competitor": "Competitor_5",
-    "ItemID": "14",
-    "DateID": "58",
-    "CompetitorPrice": "24.73",
-    "SupplierCostHistory": "15.03"
+    "﻿Item_ID": "3013",
+    "Unit_Price (LKR)": "1100"
   },
   {
-    "Competitor": "Competitor_1",
-    "ItemID": "11",
-    "DateID": "90",
-    "CompetitorPrice": "82.95",
-    "SupplierCostHistory": "14.72"
+    "﻿Item_ID": "3014",
+    "Unit_Price (LKR)": "1000"
   },
   {
-    "Competitor": "Competitor_4",
-    "ItemID": "7",
-    "DateID": "51",
-    "CompetitorPrice": "65.23",
-    "SupplierCostHistory": "35.51"
+    "﻿Item_ID": "3015",
+    "Unit_Price (LKR)": "100"
   },
   {
-    "Competitor": "Competitor_2",
-    "ItemID": "18",
-    "DateID": "53",
-    "CompetitorPrice": "91.16",
-    "SupplierCostHistory": "29.09"
+    "﻿Item_ID": "3016",
+    "Unit_Price (LKR)": "80"
   },
   {
-    "Competitor": "Competitor_3",
-    "ItemID": "20",
-    "DateID": "14",
-    "CompetitorPrice": "53.47",
-    "SupplierCostHistory": "23.53"
+    "﻿Item_ID": "3017",
+    "Unit_Price (LKR)": "120"
   },
   {
-    "Competitor": "Competitor_1",
-    "ItemID": "4",
-    "DateID": "86",
-    "CompetitorPrice": "42.1",
-    "SupplierCostHistory": "12.02"
+    "﻿Item_ID": "3018",
+    "Unit_Price (LKR)": "150"
   },
   {
-    "Competitor": "Competitor_3",
-    "ItemID": "5",
-    "DateID": "81",
-    "CompetitorPrice": "48.55",
-    "SupplierCostHistory": "18.63"
+    "﻿Item_ID": "3019",
+    "Unit_Price (LKR)": "250"
   },
   {
-    "Competitor": "Competitor_3",
-    "ItemID": "3",
-    "DateID": "84",
-    "CompetitorPrice": "66.47",
-    "SupplierCostHistory": "3.25"
+    "﻿Item_ID": "3020",
+    "Unit_Price (LKR)": "100"
   },
   {
-    "Competitor": "Competitor_5",
-    "ItemID": "5",
-    "DateID": "84",
-    "CompetitorPrice": "4.07",
-    "SupplierCostHistory": "2.15"
+    "﻿Item_ID": "3021",
+    "Unit_Price (LKR)": "200"
   },
   {
-    "Competitor": "Competitor_2",
-    "ItemID": "5",
-    "DateID": "69",
-    "CompetitorPrice": "35.26",
-    "SupplierCostHistory": "7.81"
+    "﻿Item_ID": "3022",
+    "Unit_Price (LKR)": "300"
   },
   {
-    "Competitor": "Competitor_4",
-    "ItemID": "16",
-    "DateID": "88",
-    "CompetitorPrice": "35.9",
-    "SupplierCostHistory": "12.17"
+    "﻿Item_ID": "3023",
+    "Unit_Price (LKR)": "350"
   },
   {
-    "Competitor": "Competitor_4",
-    "ItemID": "16",
-    "DateID": "99",
-    "CompetitorPrice": "24.51",
-    "SupplierCostHistory": "16.19"
+    "﻿Item_ID": "3024",
+    "Unit_Price (LKR)": "600"
   },
   {
-    "Competitor": "Competitor_4",
-    "ItemID": "2",
-    "DateID": "30",
-    "CompetitorPrice": "40.05",
-    "SupplierCostHistory": "31.85"
+    "﻿Item_ID": "3025",
+    "Unit_Price (LKR)": "150"
   },
   {
-    "Competitor": "Competitor_2",
-    "ItemID": "8",
-    "DateID": "53",
-    "CompetitorPrice": "78.45",
-    "SupplierCostHistory": "29.3"
+    "﻿Item_ID": "3026",
+    "Unit_Price (LKR)": "100"
   },
   {
-    "Competitor": "Competitor_2",
-    "ItemID": "10",
-    "DateID": "65",
-    "CompetitorPrice": "7.03",
-    "SupplierCostHistory": "6.78"
+    "﻿Item_ID": "3027",
+    "Unit_Price (LKR)": "250"
   },
   {
-    "Competitor": "Competitor_1",
-    "ItemID": "6",
-    "DateID": "71",
-    "CompetitorPrice": "85.88",
-    "SupplierCostHistory": "69.52"
+    "﻿Item_ID": "3028",
+    "Unit_Price (LKR)": "200"
   },
   {
-    "Competitor": "Competitor_3",
-    "ItemID": "13",
-    "DateID": "51",
-    "CompetitorPrice": "38.58",
-    "SupplierCostHistory": "30.36"
+    "﻿Item_ID": "3029",
+    "Unit_Price (LKR)": "250"
   },
   {
-    "Competitor": "Competitor_4",
-    "ItemID": "6",
-    "DateID": "100",
-    "CompetitorPrice": "28.77",
-    "SupplierCostHistory": "6.62"
+    "﻿Item_ID": "3030",
+    "Unit_Price (LKR)": "300"
   },
   {
-    "Competitor": "Competitor_1",
-    "ItemID": "19",
-    "DateID": "92",
-    "CompetitorPrice": "76.25",
-    "SupplierCostHistory": "55.82"
+    "﻿Item_ID": "3031",
+    "Unit_Price (LKR)": "200"
   },
   {
-    "Competitor": "Competitor_1",
-    "ItemID": "12",
-    "DateID": "54",
-    "CompetitorPrice": "14.43",
-    "SupplierCostHistory": "9.82"
+    "﻿Item_ID": "3032",
+    "Unit_Price (LKR)": "250"
   },
   {
-    "Competitor": "Competitor_1",
-    "ItemID": "8",
-    "DateID": "55",
-    "CompetitorPrice": "13.2",
-    "SupplierCostHistory": "9.24"
+    "﻿Item_ID": "3033",
+    "Unit_Price (LKR)": "150"
   },
   {
-    "Competitor": "Competitor_2",
-    "ItemID": "20",
-    "DateID": "85",
-    "CompetitorPrice": "18.7",
-    "SupplierCostHistory": "13.69"
+    "﻿Item_ID": "3034",
+    "Unit_Price (LKR)": "180"
   },
   {
-    "Competitor": "Competitor_4",
-    "ItemID": "10",
-    "DateID": "80",
-    "CompetitorPrice": "15.39",
-    "SupplierCostHistory": "5.26"
+    "﻿Item_ID": "3035",
+    "Unit_Price (LKR)": "200"
   },
   {
-    "Competitor": "Competitor_5",
-    "ItemID": "14",
-    "DateID": "78",
-    "CompetitorPrice": "23.43",
-    "SupplierCostHistory": "21.19"
+    "﻿Item_ID": "3036",
+    "Unit_Price (LKR)": "400"
   },
   {
-    "Competitor": "Competitor_1",
-    "ItemID": "6",
-    "DateID": "17",
-    "CompetitorPrice": "79.19",
-    "SupplierCostHistory": "55.66"
+    "﻿Item_ID": "3037",
+    "Unit_Price (LKR)": "220"
   },
   {
-    "Competitor": "Competitor_3",
-    "ItemID": "7",
-    "DateID": "18",
-    "CompetitorPrice": "33.78",
-    "SupplierCostHistory": "0.65"
+    "﻿Item_ID": "3038",
+    "Unit_Price (LKR)": "300"
   },
   {
-    "Competitor": "Competitor_3",
-    "ItemID": "15",
-    "DateID": "58",
-    "CompetitorPrice": "83.72",
-    "SupplierCostHistory": "49.84"
+    "﻿Item_ID": "3039",
+    "Unit_Price (LKR)": "350"
   },
   {
-    "Competitor": "Competitor_3",
-    "ItemID": "1",
-    "DateID": "74",
-    "CompetitorPrice": "3.21",
-    "SupplierCostHistory": "1.53"
+    "﻿Item_ID": "3040",
+    "Unit_Price (LKR)": "450"
   },
   {
-    "Competitor": "Competitor_3",
-    "ItemID": "11",
-    "DateID": "4",
-    "CompetitorPrice": "17.13",
-    "SupplierCostHistory": "8"
+    "﻿Item_ID": "3041",
+    "Unit_Price (LKR)": "500"
   },
   {
-    "Competitor": "Competitor_4",
-    "ItemID": "17",
-    "DateID": "45",
-    "CompetitorPrice": "55.43",
-    "SupplierCostHistory": "53.01"
+    "﻿Item_ID": "3042",
+    "Unit_Price (LKR)": "800"
   },
   {
-    "Competitor": "Competitor_5",
-    "ItemID": "20",
-    "DateID": "38",
-    "CompetitorPrice": "30.65",
-    "SupplierCostHistory": "10.5"
+    "﻿Item_ID": "3043",
+    "Unit_Price (LKR)": "600"
   },
   {
-    "Competitor": "Competitor_1",
-    "ItemID": "14",
-    "DateID": "79",
-    "CompetitorPrice": "55.92",
-    "SupplierCostHistory": "34.59"
+    "﻿Item_ID": "3044",
+    "Unit_Price (LKR)": "2000"
   },
   {
-    "Competitor": "Competitor_1",
-    "ItemID": "9",
-    "DateID": "46",
-    "CompetitorPrice": "8.6",
-    "SupplierCostHistory": "3.59"
+    "﻿Item_ID": "3045",
+    "Unit_Price (LKR)": "2500"
   },
   {
-    "Competitor": "Competitor_1",
-    "ItemID": "3",
-    "DateID": "85",
-    "CompetitorPrice": "45.96",
-    "SupplierCostHistory": "10.05"
+    "﻿Item_ID": "3046",
+    "Unit_Price (LKR)": "2200"
   },
   {
-    "Competitor": "Competitor_2",
-    "ItemID": "15",
-    "DateID": "98",
-    "CompetitorPrice": "13.01",
-    "SupplierCostHistory": "2.91"
+    "﻿Item_ID": "3047",
+    "Unit_Price (LKR)": "1500"
   },
   {
-    "Competitor": "Competitor_1",
-    "ItemID": "12",
-    "DateID": "73",
-    "CompetitorPrice": "61.12",
-    "SupplierCostHistory": "41.89"
+    "﻿Item_ID": "3048",
+    "Unit_Price (LKR)": "1000"
   },
   {
-    "Competitor": "Competitor_1",
-    "ItemID": "13",
-    "DateID": "6",
-    "CompetitorPrice": "18.84",
-    "SupplierCostHistory": "9.02"
+    "﻿Item_ID": "3049",
+    "Unit_Price (LKR)": "1200"
   },
   {
-    "Competitor": "Competitor_4",
-    "ItemID": "3",
-    "DateID": "87",
-    "CompetitorPrice": "80.03",
-    "SupplierCostHistory": "52.88"
-  },
-  {
-    "Competitor": "Competitor_2",
-    "ItemID": "13",
-    "DateID": "47",
-    "CompetitorPrice": "43.73",
-    "SupplierCostHistory": "41.85"
-  },
-  {
-    "Competitor": "Competitor_4",
-    "ItemID": "16",
-    "DateID": "35",
-    "CompetitorPrice": "67.63",
-    "SupplierCostHistory": "36.37"
-  },
-  {
-    "Competitor": "Competitor_2",
-    "ItemID": "2",
-    "DateID": "55",
-    "CompetitorPrice": "3.1",
-    "SupplierCostHistory": "2.49"
-  },
-  {
-    "Competitor": "Competitor_3",
-    "ItemID": "8",
-    "DateID": "100",
-    "CompetitorPrice": "40.37",
-    "SupplierCostHistory": "38.45"
-  },
-  {
-    "Competitor": "Competitor_4",
-    "ItemID": "7",
-    "DateID": "45",
-    "CompetitorPrice": "77.54",
-    "SupplierCostHistory": "39.35"
-  },
-  {
-    "Competitor": "Competitor_1",
-    "ItemID": "6",
-    "DateID": "18",
-    "CompetitorPrice": "37.37",
-    "SupplierCostHistory": "8.87"
-  },
-  {
-    "Competitor": "Competitor_3",
-    "ItemID": "18",
-    "DateID": "98",
-    "CompetitorPrice": "26.02",
-    "SupplierCostHistory": "14.85"
-  },
-  {
-    "Competitor": "Competitor_3",
-    "ItemID": "3",
-    "DateID": "60",
-    "CompetitorPrice": "35.05",
-    "SupplierCostHistory": "2.43"
-  },
-  {
-    "Competitor": "Competitor_4",
-    "ItemID": "7",
-    "DateID": "45",
-    "CompetitorPrice": "78.25",
-    "SupplierCostHistory": "0.82"
-  },
-  {
-    "Competitor": "Competitor_2",
-    "ItemID": "1",
-    "DateID": "9",
-    "CompetitorPrice": "90.67",
-    "SupplierCostHistory": "9.39"
-  },
-  {
-    "Competitor": "Competitor_4",
-    "ItemID": "12",
-    "DateID": "87",
-    "CompetitorPrice": "96.54",
-    "SupplierCostHistory": "50.22"
-  },
-  {
-    "Competitor": "Competitor_2",
-    "ItemID": "12",
-    "DateID": "5",
-    "CompetitorPrice": "27.89",
-    "SupplierCostHistory": "2.41"
-  },
-  {
-    "Competitor": "Competitor_5",
-    "ItemID": "2",
-    "DateID": "46",
-    "CompetitorPrice": "94.09",
-    "SupplierCostHistory": "50.28"
-  },
-  {
-    "Competitor": "Competitor_5",
-    "ItemID": "17",
-    "DateID": "9",
-    "CompetitorPrice": "97.87",
-    "SupplierCostHistory": "70.42"
-  },
-  {
-    "Competitor": "Competitor_3",
-    "ItemID": "15",
-    "DateID": "17",
-    "CompetitorPrice": "94.37",
-    "SupplierCostHistory": "35.66"
-  },
-  {
-    "Competitor": "Competitor_3",
-    "ItemID": "17",
-    "DateID": "88",
-    "CompetitorPrice": "95.27",
-    "SupplierCostHistory": "84.28"
-  },
-  {
-    "Competitor": "Competitor_4",
-    "ItemID": "9",
-    "DateID": "71",
-    "CompetitorPrice": "65.67",
-    "SupplierCostHistory": "18.14"
-  },
-  {
-    "Competitor": "Competitor_2",
-    "ItemID": "1",
-    "DateID": "30",
-    "CompetitorPrice": "88.86",
-    "SupplierCostHistory": "85.49"
-  },
-  {
-    "Competitor": "Competitor_5",
-    "ItemID": "14",
-    "DateID": "47",
-    "CompetitorPrice": "45.15",
-    "SupplierCostHistory": "39.69"
-  },
-  {
-    "Competitor": "Competitor_5",
-    "ItemID": "4",
-    "DateID": "98",
-    "CompetitorPrice": "67.54",
-    "SupplierCostHistory": "44.01"
-  },
-  {
-    "Competitor": "Competitor_1",
-    "ItemID": "20",
-    "DateID": "73",
-    "CompetitorPrice": "30.73",
-    "SupplierCostHistory": "3.31"
-  },
-  {
-    "Competitor": "Competitor_2",
-    "ItemID": "17",
-    "DateID": "37",
-    "CompetitorPrice": "64.06",
-    "SupplierCostHistory": "56.43"
-  },
-  {
-    "Competitor": "Competitor_5",
-    "ItemID": "19",
-    "DateID": "34",
-    "CompetitorPrice": "9.83",
-    "SupplierCostHistory": "7.36"
-  },
-  {
-    "Competitor": "Competitor_2",
-    "ItemID": "8",
-    "DateID": "95",
-    "CompetitorPrice": "76.25",
-    "SupplierCostHistory": "46.55"
-  },
-  {
-    "Competitor": "Competitor_4",
-    "ItemID": "13",
-    "DateID": "27",
-    "CompetitorPrice": "32.87",
-    "SupplierCostHistory": "31.82"
-  },
-  {
-    "Competitor": "Competitor_5",
-    "ItemID": "20",
-    "DateID": "77",
-    "CompetitorPrice": "8.62",
-    "SupplierCostHistory": "5.45"
-  },
-  {
-    "Competitor": "Competitor_3",
-    "ItemID": "14",
-    "DateID": "76",
-    "CompetitorPrice": "26.44",
-    "SupplierCostHistory": "4.99"
-  },
-  {
-    "Competitor": "Competitor_4",
-    "ItemID": "5",
-    "DateID": "73",
-    "CompetitorPrice": "14.11",
-    "SupplierCostHistory": "0.93"
-  },
-  {
-    "Competitor": "Competitor_3",
-    "ItemID": "6",
-    "DateID": "59",
-    "CompetitorPrice": "51.31",
-    "SupplierCostHistory": "20.36"
-  },
-  {
-    "Competitor": "Competitor_3",
-    "ItemID": "5",
-    "DateID": "82",
-    "CompetitorPrice": "60.35",
-    "SupplierCostHistory": "6.18"
-  },
-  {
-    "Competitor": "Competitor_2",
-    "ItemID": "3",
-    "DateID": "34",
-    "CompetitorPrice": "5.47",
-    "SupplierCostHistory": "3.36"
-  },
-  {
-    "Competitor": "Competitor_5",
-    "ItemID": "15",
-    "DateID": "44",
-    "CompetitorPrice": "92.64",
-    "SupplierCostHistory": "69.28"
-  },
-  {
-    "Competitor": "Competitor_3",
-    "ItemID": "15",
-    "DateID": "38",
-    "CompetitorPrice": "5.76",
-    "SupplierCostHistory": "0.65"
-  },
-  {
-    "Competitor": "Competitor_5",
-    "ItemID": "8",
-    "DateID": "56",
-    "CompetitorPrice": "89.88",
-    "SupplierCostHistory": "10.41"
-  },
-  {
-    "Competitor": "Competitor_4",
-    "ItemID": "7",
-    "DateID": "48",
-    "CompetitorPrice": "27.23",
-    "SupplierCostHistory": "18.42"
-  },
-  {
-    "Competitor": "Competitor_4",
-    "ItemID": "12",
-    "DateID": "79",
-    "CompetitorPrice": "71.43",
-    "SupplierCostHistory": "46.77"
-  },
-  {
-    "Competitor": "Competitor_5",
-    "ItemID": "13",
-    "DateID": "14",
-    "CompetitorPrice": "91",
-    "SupplierCostHistory": "24.06"
-  },
-  {
-    "Competitor": "Competitor_4",
-    "ItemID": "11",
-    "DateID": "13",
-    "CompetitorPrice": "63.33",
-    "SupplierCostHistory": "7.83"
-  },
-  {
-    "Competitor": "Competitor_5",
-    "ItemID": "12",
-    "DateID": "79",
-    "CompetitorPrice": "18.88",
-    "SupplierCostHistory": "4.84"
-  },
-  {
-    "Competitor": "Competitor_2",
-    "ItemID": "15",
-    "DateID": "49",
-    "CompetitorPrice": "51.74",
-    "SupplierCostHistory": "31.58"
-  },
-  {
-    "Competitor": "Competitor_3",
-    "ItemID": "15",
-    "DateID": "17",
-    "CompetitorPrice": "23.11",
-    "SupplierCostHistory": "9.34"
-  },
-  {
-    "Competitor": "Competitor_1",
-    "ItemID": "15",
-    "DateID": "51",
-    "CompetitorPrice": "70.98",
-    "SupplierCostHistory": "26.1"
-  },
-  {
-    "Competitor": "Competitor_2",
-    "ItemID": "17",
-    "DateID": "62",
-    "CompetitorPrice": "9.34",
-    "SupplierCostHistory": "5.17"
-  },
-  {
-    "Competitor": "Competitor_1",
-    "ItemID": "2",
-    "DateID": "6",
-    "CompetitorPrice": "6.25",
-    "SupplierCostHistory": "2.86"
-  },
-  {
-    "Competitor": "Competitor_4",
-    "ItemID": "3",
-    "DateID": "71",
-    "CompetitorPrice": "40.88",
-    "SupplierCostHistory": "17.86"
-  },
-  {
-    "Competitor": "Competitor_4",
-    "ItemID": "19",
-    "DateID": "86",
-    "CompetitorPrice": "98.21",
-    "SupplierCostHistory": "8.11"
-  },
-  {
-    "Competitor": "Competitor_1",
-    "ItemID": "4",
-    "DateID": "14",
-    "CompetitorPrice": "76.58",
-    "SupplierCostHistory": "48.12"
-  },
-  {
-    "Competitor": "Competitor_3",
-    "ItemID": "2",
-    "DateID": "80",
-    "CompetitorPrice": "83.99",
-    "SupplierCostHistory": "49.47"
-  },
-  {
-    "Competitor": "Competitor_2",
-    "ItemID": "12",
-    "DateID": "27",
-    "CompetitorPrice": "9.45",
-    "SupplierCostHistory": "4.66"
-  },
-  {
-    "Competitor": "Competitor_2",
-    "ItemID": "16",
-    "DateID": "29",
-    "CompetitorPrice": "49.83",
-    "SupplierCostHistory": "25.63"
+    "﻿Item_ID": "3050",
+    "Unit_Price (LKR)": "1100"
   }
 ]
