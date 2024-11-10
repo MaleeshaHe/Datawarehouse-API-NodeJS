@@ -1,202 +1,202 @@
 [
   {
-    "﻿Item_ID": "3001",
-    "Unit_Price (LKR)": "200"
+    "itemId": "3001",
+    "unitPrice": "200"
   },
   {
-    "﻿Item_ID": "3002",
-    "Unit_Price (LKR)": "150"
+    "itemId": "3002",
+    "unitPrice": "150"
   },
   {
-    "﻿Item_ID": "3003",
-    "Unit_Price (LKR)": "180"
+    "itemId": "3003",
+    "unitPrice": "180"
   },
   {
-    "﻿Item_ID": "3004",
-    "Unit_Price (LKR)": "120"
+    "itemId": "3004",
+    "unitPrice": "120"
   },
   {
-    "﻿Item_ID": "3005",
-    "Unit_Price (LKR)": "100"
+    "itemId": "3005",
+    "unitPrice": "100"
   },
   {
-    "﻿Item_ID": "3006",
-    "Unit_Price (LKR)": "250"
+    "itemId": "3006",
+    "unitPrice": "250"
   },
   {
-    "﻿Item_ID": "3007",
-    "Unit_Price (LKR)": "50"
+    "itemId": "3007",
+    "unitPrice": "50"
   },
   {
-    "﻿Item_ID": "3008",
-    "Unit_Price (LKR)": "500"
+    "itemId": "3008",
+    "unitPrice": "500"
   },
   {
-    "﻿Item_ID": "3009",
-    "Unit_Price (LKR)": "150"
+    "itemId": "3009",
+    "unitPrice": "150"
   },
   {
-    "﻿Item_ID": "3010",
-    "Unit_Price (LKR)": "60"
+    "itemId": "3010",
+    "unitPrice": "60"
   },
   {
-    "﻿Item_ID": "3011",
-    "Unit_Price (LKR)": "1200"
+    "itemId": "3011",
+    "unitPrice": "1200"
   },
   {
-    "﻿Item_ID": "3012",
-    "Unit_Price (LKR)": "1300"
+    "itemId": "3012",
+    "unitPrice": "1300"
   },
   {
-    "﻿Item_ID": "3013",
-    "Unit_Price (LKR)": "1100"
+    "itemId": "3013",
+    "unitPrice": "1100"
   },
   {
-    "﻿Item_ID": "3014",
-    "Unit_Price (LKR)": "1000"
+    "itemId": "3014",
+    "unitPrice": "1000"
   },
   {
-    "﻿Item_ID": "3015",
-    "Unit_Price (LKR)": "100"
+    "itemId": "3015",
+    "unitPrice": "100"
   },
   {
-    "﻿Item_ID": "3016",
-    "Unit_Price (LKR)": "80"
+    "itemId": "3016",
+    "unitPrice": "80"
   },
   {
-    "﻿Item_ID": "3017",
-    "Unit_Price (LKR)": "120"
+    "itemId": "3017",
+    "unitPrice": "120"
   },
   {
-    "﻿Item_ID": "3018",
-    "Unit_Price (LKR)": "150"
+    "itemId": "3018",
+    "unitPrice": "150"
   },
   {
-    "﻿Item_ID": "3019",
-    "Unit_Price (LKR)": "250"
+    "itemId": "3019",
+    "unitPrice": "250"
   },
   {
-    "﻿Item_ID": "3020",
-    "Unit_Price (LKR)": "100"
+    "itemId": "3020",
+    "unitPrice": "100"
   },
   {
-    "﻿Item_ID": "3021",
-    "Unit_Price (LKR)": "200"
+    "itemId": "3021",
+    "unitPrice": "200"
   },
   {
-    "﻿Item_ID": "3022",
-    "Unit_Price (LKR)": "300"
+    "itemId": "3022",
+    "unitPrice": "300"
   },
   {
-    "﻿Item_ID": "3023",
-    "Unit_Price (LKR)": "350"
+    "itemId": "3023",
+    "unitPrice": "350"
   },
   {
-    "﻿Item_ID": "3024",
-    "Unit_Price (LKR)": "600"
+    "itemId": "3024",
+    "unitPrice": "600"
   },
   {
-    "﻿Item_ID": "3025",
-    "Unit_Price (LKR)": "150"
+    "itemId": "3025",
+    "unitPrice": "150"
   },
   {
-    "﻿Item_ID": "3026",
-    "Unit_Price (LKR)": "100"
+    "itemId": "3026",
+    "unitPrice": "100"
   },
   {
-    "﻿Item_ID": "3027",
-    "Unit_Price (LKR)": "250"
+    "itemId": "3027",
+    "unitPrice": "250"
   },
   {
-    "﻿Item_ID": "3028",
-    "Unit_Price (LKR)": "200"
+    "itemId": "3028",
+    "unitPrice": "200"
   },
   {
-    "﻿Item_ID": "3029",
-    "Unit_Price (LKR)": "250"
+    "itemId": "3029",
+    "unitPrice": "250"
   },
   {
-    "﻿Item_ID": "3030",
-    "Unit_Price (LKR)": "300"
+    "itemId": "3030",
+    "unitPrice": "300"
   },
   {
-    "﻿Item_ID": "3031",
-    "Unit_Price (LKR)": "200"
+    "itemId": "3031",
+    "unitPrice": "200"
   },
   {
-    "﻿Item_ID": "3032",
-    "Unit_Price (LKR)": "250"
+    "itemId": "3032",
+    "unitPrice": "250"
   },
   {
-    "﻿Item_ID": "3033",
-    "Unit_Price (LKR)": "150"
+    "itemId": "3033",
+    "unitPrice": "150"
   },
   {
-    "﻿Item_ID": "3034",
-    "Unit_Price (LKR)": "180"
+    "itemId": "3034",
+    "unitPrice": "180"
   },
   {
-    "﻿Item_ID": "3035",
-    "Unit_Price (LKR)": "200"
+    "itemId": "3035",
+    "unitPrice": "200"
   },
   {
-    "﻿Item_ID": "3036",
-    "Unit_Price (LKR)": "400"
+    "itemId": "3036",
+    "unitPrice": "400"
   },
   {
-    "﻿Item_ID": "3037",
-    "Unit_Price (LKR)": "220"
+    "itemId": "3037",
+    "unitPrice": "220"
   },
   {
-    "﻿Item_ID": "3038",
-    "Unit_Price (LKR)": "300"
+    "﻿itemId": "3038",
+    "unitPrice": "300"
   },
   {
-    "﻿Item_ID": "3039",
-    "Unit_Price (LKR)": "350"
+    "itemId": "3039",
+    "unitPrice": "350"
   },
   {
-    "﻿Item_ID": "3040",
-    "Unit_Price (LKR)": "450"
+    "itemId": "3040",
+    "unitPrice": "450"
   },
   {
-    "﻿Item_ID": "3041",
-    "Unit_Price (LKR)": "500"
+    "itemId": "3041",
+    "unitPrice": "500"
   },
   {
-    "﻿Item_ID": "3042",
-    "Unit_Price (LKR)": "800"
+    "itemId": "3042",
+    "unitPrice": "800"
   },
   {
-    "﻿Item_ID": "3043",
-    "Unit_Price (LKR)": "600"
+    "itemId": "3043",
+    "unitPrice": "600"
   },
   {
-    "﻿Item_ID": "3044",
-    "Unit_Price (LKR)": "2000"
+    "itemId": "3044",
+    "unitPrice": "2000"
   },
   {
-    "﻿Item_ID": "3045",
-    "Unit_Price (LKR)": "2500"
+    "itemId": "3045",
+    "unitPrice": "2500"
   },
   {
-    "﻿Item_ID": "3046",
-    "Unit_Price (LKR)": "2200"
+    "itemId": "3046",
+    "unitPrice": "2200"
   },
   {
-    "﻿Item_ID": "3047",
-    "Unit_Price (LKR)": "1500"
+    "itemId": "3047",
+    "unitPrice": "1500"
   },
   {
-    "﻿Item_ID": "3048",
-    "Unit_Price (LKR)": "1000"
+    "itemId": "3048",
+    "unitPrice": "1000"
   },
   {
-    "﻿Item_ID": "3049",
-    "Unit_Price (LKR)": "1200"
+    "itemId": "3049",
+    "unitPrice": "1200"
   },
   {
-    "﻿Item_ID": "3050",
-    "Unit_Price (LKR)": "1100"
+    "itemId": "3050",
+    "unitPrice": "1100"
   }
 ]
